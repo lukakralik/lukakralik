@@ -7,8 +7,7 @@ My name is Luka and I am glad you came to visit my GitHub page. I am very passio
 ## My toolset
 [![My Skills](https://skillicons.dev/icons?i=linux,git,neovim,github,sqlite,docker)](https://skillicons.dev)
 
-![Luka's GitHub stats](https://github-readme-stats-lukakralik.vercel.app////api?username=lukakralik&count_private=true&theme=gruvbox)
-
-
+## My GitHub statistics
+![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukakralik&count_private=true&theme=gruvbox)
 
 `I use Arch BTW`
